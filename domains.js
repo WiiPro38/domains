@@ -1,4 +1,4 @@
 [  
-    "site2.blogspot.com",
+    "pcunivers94.blogspot.com",
     "site3.com"
 ]
